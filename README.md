@@ -3,7 +3,8 @@
 ![screenshotwebsite2](https://user-images.githubusercontent.com/77074964/109408333-ac4fee80-7956-11eb-80c3-44ce26f86b75.jpg)
 The purpose of this HW was to create a Portfolio using html css and bootstrap.
 
-Screenshots of final product
+Screenshots of final product above
+deploy link https://markhamtrenton.github.io/My-Portifio/
 
 
 
