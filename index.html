@@ -14,30 +14,30 @@
   <link rel="stylesheet" href="Assets/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
-  <body>
+  <body data-spy="scroll" data-target="#navbarResponsive">
   
     <div id="home">
      <!-- navigation start -->  
      
      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
       
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" >
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" >
         <span class="navbar-toggler-icon"></span>
       </button>
     
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home</a>
+            <a class="nav-link" href="#home">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Me</a>
+            <a class="nav-link" href="#about">About Me</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">My Work</a>
+            <a class="nav-link" href="#mywork">My Work</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact Me</a>
+            <a class="nav-link" href="#contact">Contact Me</a>
           </li>
          
         </ul>
@@ -62,19 +62,48 @@
    </div>
 
    <!-- About start -->
-   <div id="about" class="mt-3 pb-5">
+   <div id="about" class="container mt-3 mb-5">
      <div class="post-heading text-center" >
        <h3 class="display-4 font-weight-bold" >About Me</h3>
        <hr class="w-50 mx-auto pb-5">
      </div>
+     <div class="row">
+       <div class="col-lg-6 col-md-6 col-12">  
+         <img src="images/profilefinal.jpg" class="img-fluid" alt="profile pic">
+       </div>
 
-   </div>
+     <div class="col-lg-6 col-md-6 col-12">
+       <h2>Want to Know Me?</h2>
+       <hr>
+       <p class="display-3">I am a fullstack developer from the Atlanta, Ga area. I have a passion for building and learning. I am experienced in html, css, bootstrap, and javascript. I have a Passion for software development 
+         and building things with it. I bring strong skills to the table such as team-building, communication, debugging.  </p>
+
+     </div>
 
 
    <!-- About end -->
 
      <!-- my work start -->
-     <div id="mywork" class="">
+     <div id="mywork" class="comtainer mt-3 mb-5">
+      <div class="post-heading text-center" >
+        <h3 class="display-4 font-weight-bold" >MY Work</h3>
+        <hr class="w-50 mx-auto pb-5">
+      </div>
+      <div class="row" >
+      <div class= "col-lg-4 col-md-6 col-12 pb-5">  
+        <div class="card" >
+          <img src="images/my work.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">html & css</h5>
+            <p class="card-text">Building and debugging website organizing</p>
+            <a href="#" class="btn btn-dark">Preview</a>
+          </div>
+        </div>
+
+        </div>
+
+
+      </div>
 
     </div>
     
@@ -82,13 +111,31 @@
     <!-- my work end -->
 
      <!-- contact start -->
-     <div id="contact" class="">
+     <div id="contact" class="container mt-5 mb-5">
+      <div class="post-heading text-center" >
+        <h3 class="display-4 font-weight-bold" >Contact</h3>
+        <hr class="w-50 mx-auto pb-5">
+      </div>
+      <div class="col-lg-6 col-md-6 col-12">
+        <h2>Email: markhamtrenton@gmail.com</h2>
+        <hr>
+        
+ 
+      </div>
 
     </div>
     
  
     <!-- contact end -->
- 
+
+    <!-- footer beg -->
+    <footer>
+        
+      <p>
+          Made by Trenton Markham
+      </p>
+  </footer>
+ <!-- footer end -->
 
 
 
