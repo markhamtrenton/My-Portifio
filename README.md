@@ -1,3 +1,12 @@
+The purpose of this HW was to create a Portfolio using html css and bootstrap.
+
+Screenshots of final product
+
+
+
+
+
+
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
