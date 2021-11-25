@@ -1,7 +1,7 @@
 ![screenshot1](https://user-images.githubusercontent.com/77074964/109408329-a5c17700-7956-11eb-820a-f5219b9f1911.jpg)
 ![screenshot3](https://user-images.githubusercontent.com/77074964/109408331-a954fe00-7956-11eb-8c1b-96ae3202c731.jpg)
 
-The purpose of this HW was to create a Portfolio using html css and bootstrap.
+The purpose of this project was to create a Portfolio using html css and bootstrap.
 
 Screenshots of final product above
 deploy link https://markhamtrenton.github.io/My-Portifio/
@@ -13,11 +13,9 @@ deploy link https://markhamtrenton.github.io/My-Portifio/
 
 # 02 Advanced CSS: Portfolio
 
-## Your Task
 
-Welcome to this week's homework! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
+
 
 With these points in mind, in this homework you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
@@ -55,49 +53,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-
-## Mock-Up
-
-The following animation shows the web application's appearance and functionality:
-
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
-
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
 
 You are required to submit BOTH of the following for review:
 
